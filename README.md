@@ -1,2 +1,2 @@
-# Food-Delivery-Project
-Omnifood! A simple food delivery website 
+# A-Very-Elegant-Food-Delivery-Website
+Omnifood! A simple food delivery website..
