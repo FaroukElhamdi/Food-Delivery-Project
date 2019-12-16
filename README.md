@@ -1,3 +1,3 @@
 # Food-Delivery-Website
 
-Omnifood! A simple food-delivery website using HTML, CSS and jQuery ..
+Omnifood is A great food-delivery website using HTML, CSS and jQuery ..
