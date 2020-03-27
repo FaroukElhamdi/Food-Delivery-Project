@@ -1,6 +1,7 @@
 # Food-Delivery-Website
 
-my first official web-project.
+Omnifood Is A Great Food Delivery Website Using HTML, CSS and jQuery ..
 
-Omnifood is A great food-delivery website using HTML, CSS and jQuery ..
+This Is My First Official Web-Project.
+
 
